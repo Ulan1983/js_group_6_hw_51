@@ -1,0 +1,27 @@
+.content {
+	background: rgba(231, 238, 239, 0);
+}
+.content h2 {
+	text-align: center;
+	text-transform: uppercase;
+	color: blue;
+}
+.box {
+	display: flex;
+	justify-content: space-around;
+}
+.box a {
+	text-decoration: none;
+}
+.card {
+	margin-bottom: 25px;
+}
+.card img {
+	width: 200px;
+	height: 200px;
+}
+.card1 img {
+	width: 200px;
+	height: 200px;
+	margin-right: 50px;
+}

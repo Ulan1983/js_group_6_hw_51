@@ -1,0 +1,13 @@
+.sidebar {
+	background: #808080;
+	padding: 5px;
+}
+.ul_sidebar {
+	list-style: none;
+}
+.li_sidebar {
+	margin-top: 15px;
+}
+.li_sidebar a {
+	text-decoration: none;
+}

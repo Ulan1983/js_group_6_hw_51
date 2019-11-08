@@ -1,0 +1,24 @@
+.footer {
+	padding: 25px 0;
+	text-align: right;
+}
+.footer_div {
+	float: left;
+	margin-left: 10px;
+}
+.footer_div a {
+	text-decoration: none;
+}
+.footer_div img {
+	width: 25px;
+	height: 25px;
+}
+.footer span {
+	color: #000;
+	padding-right: 50px;
+}
+.footer a {
+	text-decoration: none;
+	padding-left: 25px;
+	color: #000;
+}

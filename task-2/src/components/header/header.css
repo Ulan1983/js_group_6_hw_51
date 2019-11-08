@@ -1,0 +1,26 @@
+.header {
+	display: flex;
+	background: #ccc;
+	padding: 30px 0;
+}
+.logo {
+	margin-top: 15px;
+	margin-left: 30px;
+	text-decoration: none;
+}
+.main-nav {
+	margin-left: auto;
+}
+.main-nav ul {
+	list-style: none;
+}
+.main-nav li {
+	display: inline-block;
+	margin-left: 30px;
+}
+.main-nav a {
+	color: blue;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-right: 15px;
+}
